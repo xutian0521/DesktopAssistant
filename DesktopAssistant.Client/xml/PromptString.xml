@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <PromptString Language="En" type="String">
+    <LoginTitle StringType="ControlText">
+      <value>System Login</value>
+    </LoginTitle>
+    <LoginNameLabel StringType="ControlText">
+      <value>Username:</value>
+    </LoginNameLabel>
+    <PassWordLabel StringType="ControlText">
+      <value>Password:</value>
+    </PassWordLabel>
+    <LoginButton StringType="ControlText">
+      <value>Login</value>
+    </LoginButton>
+
+    <UserNameEmpty StringType="PromptText">
+      <value>Username cannot be empty!</value>
+    </UserNameEmpty>
+    <PassWordEmpty StringType="PromptText">
+      <value>Password cannot be empty!</value>
+    </PassWordEmpty>
+
+  </PromptString>
+  <PromptString Language="Zh" type="String">
+
+    <LoginTitle StringType="ControlText">
+      <value>系统登陆</value>
+    </LoginTitle>
+    <LoginNameLabel StringType="ControlText">
+      <value>用户名:</value>
+    </LoginNameLabel>
+    <PassWordLabel StringType="ControlText">
+      <value>密码:</value>
+    </PassWordLabel>
+    <LoginButton StringType="ControlText">
+      <value>登录</value>
+    </LoginButton>
+
+    <UserNameEmpty StringType="PromptText">
+      <value>用户名不能为空!</value>
+    </UserNameEmpty>
+    <PassWordEmpty StringType="PromptText">
+      <value>密码不能为空!</value>
+    </PassWordEmpty>
+  </PromptString>
+</Root>
+
